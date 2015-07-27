@@ -19,7 +19,7 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
-avatar: 120x120.gif
+
 # Site owner
 owner:
   name:
