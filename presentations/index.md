@@ -7,7 +7,6 @@ excerpt:
 ads: false
 ---
 
-
 <h1>Fiware Platform</h1>
 {% oembed http://www.slideshare.net/HerberttBMDiniz/fiware2 %}
 
