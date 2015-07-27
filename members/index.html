@@ -1,0 +1,47 @@
+---
+layout: archive
+title: Group Members
+---
+<article>
+<ul>
+<h3>- Faculty</h3>
+{% for member in site.data.faculty_members %}
+  <li>
+   <h6>
+    {{ member.name }}
+    <a href="https://github.com/{{ member.github }}">
+      <img src="{{ site.url }}/images/octocat-icon.png" width="16px" height="16px" alt="View {{ member.github }}'s code on GitHub"> 
+    </a>
+   </h6>
+  </li>
+{% endfor %}
+</ul>
+
+<ul>
+<h3>- PhD Students</h3>
+{% for member in site.data.phd_students_members %}
+  <li>
+   <h6>
+    {{ member.name }}
+    <a href="https://github.com/{{ member.github }}">
+      <img src="{{ site.url }}/images/octocat-icon.png" width="16px" height="16px" alt="View {{ member.github }}'s code on GitHub"> 
+    </a>
+   </h6>
+  </li>
+{% endfor %}
+</ul>
+
+<ul>
+<h3>- MSc Students</h3>
+{% for member in site.data.msc_students_members %}
+  <li>
+   <h6>
+    {{ member.name }}
+    <a href="https://github.com/{{ member.github }}">
+      <img src="{{ site.url }}/images/octocat-icon.png" width="16px" height="16px" alt="View {{ member.github }}'s code on GitHub"> 
+    </a>
+   </h6>
+  </li>
+{% endfor %}
+</ul>
+</article>

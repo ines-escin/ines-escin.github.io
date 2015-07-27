@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: Projects
+  url: https://github.com/ines-escin
+  excerpt: Projects Repository
+  image: octocat.gif
+
+- title: Presentations
+  url: /presentations
+  excerpt: Group Presentations
+  image: newskills.jpg
+
+- title: Members
+  url: /members
+  excerpt: Group Members
+  image: team_group.gif
+
+- title: About
   url:
   excerpt:
   image:
