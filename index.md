@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: 
-logo: 
+title: "Ines-EsCIN"
+logo: 120x120.gif
 ---
 
 <div class="tiles">

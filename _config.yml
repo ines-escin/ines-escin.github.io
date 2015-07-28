@@ -19,7 +19,6 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
-avatar: 100x100.gif
 
 # Site owner
 owner:
@@ -30,7 +29,7 @@ owner:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: 100x100.gif # 160x160 px image for author byline
+  avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
