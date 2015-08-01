@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $gray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $green;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $green;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $green;
     font-size: 22px;
     font-style: italic;
   }

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: INES Projects
+title: INES 2.0 Projects
 ---
 
  
 
-INES Project Reseachs(shown below).
+Smart Cities Solutions
 
-http://www.ines.org.br/?page_id=59
+![_config.yml]({{ site.baseurl }}/images/Header.jpg)
 
