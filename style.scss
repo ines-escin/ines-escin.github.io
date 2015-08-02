@@ -97,7 +97,9 @@ ol ul, ul ol, ul ul, ol ol {
 ul ul, ol ul {
   list-style-type: circle;
 }
-
+li{
+  margin-left: 30px;
+}
 em, i {
   font-style: italic;
 }
@@ -214,13 +216,13 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 14px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 12px;
   }
 
   a {
@@ -235,6 +237,10 @@ nav {
       color: $blue;
     }
   }
+}
+
+.members{
+   font-size: 12px;
 }
 
 //

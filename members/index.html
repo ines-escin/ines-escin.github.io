@@ -3,8 +3,9 @@ layout: page
 title: Group Members
 ---
 <article>
-<ul>
-- Faculty -
+<div class="members">
+<ol>
+<h4>Faculty </h4>
 {% for member in site.data.faculty_members %}
   <li>
    <h6>
@@ -15,10 +16,10 @@ title: Group Members
    </h6>
   </li>
 {% endfor %}
-</ul>
+</ol>
 
-<ul>
-- PhD Students -
+<ol>
+<h4>PhD Students</h4>
 {% for member in site.data.phd_students_members %}
   <li>
    <h6>
@@ -29,10 +30,10 @@ title: Group Members
    </h6>
   </li>
 {% endfor %}
-</ul>
+</ol>
 
-<ul>
-- MSc Students -
+<ol>
+<h4>MSc Students </h4>
 {% for member in site.data.msc_students_members %}
   <li>
    <h6>
@@ -43,5 +44,6 @@ title: Group Members
    </h6>
   </li>
 {% endfor %}
-</ul>
+</ol>
+</div>
 </article>
