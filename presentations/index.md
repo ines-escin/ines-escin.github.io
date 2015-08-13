@@ -8,18 +8,18 @@ ads: false
 ---
 
 <h3>Reunião inicial (3/2015)<h3>
-<ol>
-<li>[Visão geral do projeto]({{ site.url }}/presentations/files/KickOffMeeting.pdf)<li>
-<li>[Potenciais aplicações a serem usadas como estudo de caso]({{ site.url }}/presentations/files/KickOffMeeting.pdf)<li>
-<ol>
+<ul>
+<li>[Visão geral do projeto]({{ site.url }}/presentations/files/KickOffMeeting.pdf)</li>
+<li>[Potenciais aplicações a serem usadas como estudo de caso]({{ site.url }}/presentations/files/KickOffMeeting.pdf)</li>
+</ul>
 
 
 <h3>Reunião de acompanhamento (7/2015)<h3>
 
-<ol>
-<li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/SegundaReuniao.pdf)<li>
-<li>[Plataforma Fiware e aplicação CrowdBike]({{ site.url }}/presentations/files/PresentationFiware.pdf)<li>
-<li>[Processo e ferramentas de desenvolvimento das aplicações do projeto]({{ site.url }}/presentations/files/ines_crowdbike_thais.pdf)<li>
-<li>Aplicação Onda Verde (para o pdf, entrar em contato com Bruno Cartaxo)<li>
-<li>KNoT do CESAR<li>
-<ol>
+<ul>
+<li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/SegundaReuniao.pdf)</li>
+<li>[Plataforma Fiware e aplicação CrowdBike]({{ site.url }}/presentations/files/PresentationFiware.pdf)</li>
+<li>[Processo e ferramentas de desenvolvimento das aplicações do projeto]({{ site.url }}/presentations/files/ines_crowdbike_thais.pdf)</li>
+<li>Aplicação Onda Verde (para o pdf, entrar em contato com Bruno Cartaxo)</li>
+<li>KNoT do CESAR</li>
+</ul>
