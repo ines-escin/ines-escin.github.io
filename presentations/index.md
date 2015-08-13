@@ -10,12 +10,11 @@ ads: false
 <h3>Reunião inicial (3/2015)<h3>
 <ul>
 <li>[Visão geral do projeto]({{ site.url }}/presentations/files/KickOffMeeting.pdf)</li>
-<li>[Potenciais aplicações a serem usadas como estudo de caso]({{ site.url }}/presentations/files/KickOffMeeting.pdf)</li>
+<li>Potenciais aplicações a serem usadas como estudo de caso</li>
 </ul>
 
 
 <h3>Reunião de acompanhamento (7/2015)<h3>
-
 <ul>
 <li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/SegundaReuniao.pdf)</li>
 <li>[Plataforma Fiware e aplicação CrowdBike]({{ site.url }}/presentations/files/PresentationFiware.pdf)</li>
