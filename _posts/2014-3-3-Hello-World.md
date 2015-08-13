@@ -1,11 +1,11 @@
 ---
 layout: post
-title: INES 2.0 Projects
+title: Projeto ESCIn (INES 2.0)
 ---
 
  
 
-Smart Cities Solutions
+Engenharia de Software para Cidades Inteligentes
 
 ![_config.yml]({{ site.baseurl }}/images/Header.jpg)
 

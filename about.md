@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Site do projeto Engenharia de Software para Cidades Inteligentes (ESCIn), PRONEX-FACEPE-APQ 0388-1.03/14, do Instituto Nacional de Ciência e Tecnologia para Engenharia de Software ([INES](http://www.ines.org.br/)).
 
-### More Information
+### Instituições participantes
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+CESAR, FACAPE, IKEWAI, ISI-TIC, [UFPE](http://www.cin.ufpe.br), e UFRPE.
