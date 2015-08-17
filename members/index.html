@@ -45,5 +45,18 @@ title: Group Members
   </li>
 {% endfor %}
 </ol>
+<ol>
+<h4>Undergraduate Students</h4>
+{% for member in site.data.undergraduate_students_members %}
+  <li>
+   <h6>
+    {{ member.name }}
+    <a href="https://github.com/{{ member.github }}">
+      <img src="{{ site.url }}/images/octocat-icon.png" width="16px" height="16px" alt="View {{ member.github }}'s code on GitHub"> 
+    </a>
+   </h6>
+  </li>
+{% endfor %}
+</ol>
 </div>
 </article>

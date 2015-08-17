@@ -10,7 +10,7 @@ ads: false
 <h3>Reunião inicial (3/2015)<h3>
 <ul>
 <li>[Visão geral do projeto]({{ site.url }}/presentations/files/KickOffMeeting.pdf)</li>
-<li>Potenciais aplicações a serem usadas como estudo de caso</li>
+<li>[Potenciais aplicações a serem usadas como estudo de caso]({{ site.url }}/presentations/files/StatusExecucao.pdf)</li>
 </ul>
 
 
