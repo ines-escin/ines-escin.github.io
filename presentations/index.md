@@ -19,6 +19,6 @@ ads: false
 <li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/SegundaReuniao.pdf)</li>
 <li>[Plataforma Fiware e aplicação CrowdBike]({{ site.url }}/presentations/files/PresentationFiware.pdf)</li>
 <li>[Processo e ferramentas de desenvolvimento das aplicações do projeto]({{ site.url }}/presentations/files/ines_crowdbike_thais.pdf)</li>
-<li>Aplicação Onda Verde (para o pdf, entrar em contato com Bruno Cartaxo)</li>
+<li>[Aplicação Onda Verde]({{ site.url }}/presentations/files/OndaVerde.pdf)</li>
 <li>KNoT do CESAR</li>
 </ul>
