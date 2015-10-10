@@ -20,5 +20,5 @@ ads: false
 <li>[Plataforma Fiware e aplicação CrowdBike]({{ site.url }}/presentations/files/PresentationFiware.pdf)</li>
 <li>[Processo e ferramentas de desenvolvimento das aplicações do projeto]({{ site.url }}/presentations/files/ines_crowdbike_thais.pdf)</li>
 <li>[Aplicação Onda Verde]({{ site.url }}/presentations/files/OndaVerde.pdf)</li>
-<li>KNoT do CESAR</li>
+<li>[KNoT do CESAR]({{ site.url }}/presentations/files/OndaVerde.KNoT)</li>
 </ul>
