@@ -6,6 +6,9 @@ permalink: /about/
 
 Site do projeto Engenharia de Software para Cidades Inteligentes (ESCIn), PRONEX-FACEPE-APQ 0388-1.03/14, do Instituto Nacional de Ciência e Tecnologia para Engenharia de Software ([INES](http://www.ines.org.br/)).
 
+### Repositório: 
+{% include svg-icons.html %}
+
 ### Instituições participantes
 [![_config.yml]({{ site.baseurl }}/images/ufpe.png)](http://www.cin.ufpe.br)
 [![_config.yml]({{ site.baseurl }}/images/ufrpe.png)](http://www.ufrpe.br)
