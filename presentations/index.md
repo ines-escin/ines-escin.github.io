@@ -22,3 +22,13 @@ ads: false
 <li>[Aplicação Onda Verde]({{ site.url }}/presentations/files/OndaVerde.pdf)</li>
 <li>[KNoT do CESAR]({{ site.url }}/presentations/files/KNoT.pdf)</li>
 </ul>
+
+<h3>Reunião (11/2015)<h3>
+<ul>
+<li>[INES 2.0]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
+<li>[Coleta Inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
+<li>[Bike Cidadao: Status]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
+<li>[Pesquisa em testes baseados em geolocalização]({{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf)</li>
+<li>[HealthDrones]({{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf)</li>
+<li>[Desert-Map: A software plataform]({{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf)</li>
+</ul>
