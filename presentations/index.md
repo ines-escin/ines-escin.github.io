@@ -23,12 +23,13 @@ ads: false
 <li>[KNoT do CESAR]({{ site.url }}/presentations/files/KNoT.pdf)</li>
 </ul>
 
-<h3>Reunião de acompanhamento  (11/2015)<h3>
+<h3>Reunião de acompanhamento (11/2015)<h3>
 <ul>
 <li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
-<li>[Bike Cidadão: Status]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
+<li>[Coleta inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
+<li>[BikeCidadao: prêmio, novas features, colaborações e desafios de pesquisa]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
 <li>[Pesquisa em testes baseados em geolocalização]({{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf)</li>
-<li>[Coleta Inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
+<li>SWAN - Smart Water Network: An Answer for the Water Problem in Brazil</li>
 <li>[Desert-Map: A software plataform]({{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf)</li>
 <li>[HealthDrones]({{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf)</li>
 </ul>
