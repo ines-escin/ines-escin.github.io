@@ -23,10 +23,10 @@ ads: false
 <li>[KNoT do CESAR]({{ site.url }}/presentations/files/KNoT.pdf)</li>
 </ul>
 
-<h3>Reunião (11/2015)<h3>
+<h3>Reunião de acompanhamento  (11/2015)<h3>
 <ul>
-<li>[INES 2.0]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
-<li>[Bike Cidadao: Status]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
+<li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
+<li>[Bike Cidadão: Status]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
 <li>[Pesquisa em testes baseados em geolocalização]({{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf)</li>
 <li>[Coleta Inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
 <li>[Desert-Map: A software plataform]({{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf)</li>
