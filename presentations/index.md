@@ -30,6 +30,7 @@ ads: false
 <li>[BikeCidadao: prêmio, novas features, colaborações e desafios de pesquisa]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
 <li>[Pesquisa em testes baseados em geolocalização]({{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf)</li>
 <li>SWAN - Smart Water Network: An Answer for the Water Problem in Brazil</li>
+<li>[Dados abertos governamentais como base para projetos de participação e cidadania]({{ site.url }}/presentations/files/ProjetoDadosAbertos.pdf)</li>
 <li>[Desert-Map: A software plataform]({{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf)</li>
 <li>[HealthDrones]({{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf)</li>
 </ul>
