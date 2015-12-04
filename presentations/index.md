@@ -24,12 +24,19 @@ ads: false
 <li>[KNoT do CESAR]({{ site.url }}/presentations/files/KNoT.pdf)</li>
 </ul>
 
-<h3>Reunião (11/2015)<h3>
+<h3>Reunião de acompanhamento (11/2015)<h3>
 <ul>
+<<<<<<< HEAD
 <li>[INES 2.0]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
 <li>[Bike Cidadao(CrowdBike): Status]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
+=======
+<li>[Expectativas do projeto e agenda da reunião]({{ site.url }}/presentations/files/TerceiraReuniao.pdf)</li>
+<li>[Coleta inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
+<li>[BikeCidadao: prêmio, novas features, colaborações e desafios de pesquisa]({{ site.url }}/presentations/files/BikeCidadao.pdf)</li>
+>>>>>>> 875151383813bfaa1c2c6b3e646dcc0ef922e42d
 <li>[Pesquisa em testes baseados em geolocalização]({{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf)</li>
-<li>[Coleta Inteligente: conceito, colaborações e projeto inicial]({{ site.url }}/presentations/files/ConceitoDosCIn.pdf)</li>
+<li>SWAN - Smart Water Network: An Answer for the Water Problem in Brazil</li>
+<li>[Dados abertos governamentais como base para projetos de participação e cidadania]({{ site.url }}/presentations/files/ProjetoDadosAbertos.pdf)</li>
 <li>[Desert-Map: A software plataform]({{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf)</li>
 <li>[HealthDrones]({{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf)</li>
 </ul>
