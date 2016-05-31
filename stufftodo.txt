@@ -1,6 +1,0 @@
-#TODO1
-	fazer um icone para cada rede social, colocar tipo de membro abaixo do nome,(faculty, etc..)
-	Talvez esconder cada membro e colcoar um botão com seta pra baixo pra expandir todos os membros. Talvez deixar separar, fazer uma <div> pra cada tipo. Com toogle. 
-
-#TODO2
-	treatments = applications. Fazer cada div daquela um botão para uma página q explica cada aplicação.
