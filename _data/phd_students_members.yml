@@ -1,21 +1,26 @@
 # Members of projects
-
-- name: Herbertt  Diniz (Cin/UFPE)
+  
+- name: Herbertt  Diniz
+  location: (CIn/UFPE)
  # github: herbertt
   lattes: http://lattes.cnpq.br/2544226584719029
+
+- name: Kellyton Brito
+  location: (CIn/UFPE)
+  github: #
+  lattes: http://lattes.cnpq.br/8750956715158540
   
-- name: Paola Accioly (Cin/UFPE)
+- name: Paola Accioly
+  location: (CIn/UFPE)
   github: # prga
   lattes:  http://lattes.cnpq.br/6629813636801870
 
-- name: Rodrigo Cardoso (Cin/UFPE)
+- name: Rodrigo Cardoso
+  location: (CIn/UFPE)
   github: #  rcaa
 
-- name: Thaís Burity (Cin/UFPE)
+- name: Thaís Burity
+  location: (CIn/UFPE)
   github: #thaisabr
   lattes: http://lattes.cnpq.br/9619297279269411
-
-- name: Kellyton Brito (Cin/UFPE)
-  github: #
-  lattes: http://lattes.cnpq.br/8750956715158540
 

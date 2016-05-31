@@ -1,0 +1,41 @@
+/* 3 SHADE COLUMNS
+-------------------------------------------------*/
+.three-shade-col {
+    @extend %clearfix;
+    @extend %align-center;
+    display: block;
+    @include breakpoint(small) {
+        display: flex;
+    }
+    [class^="col-"] {
+        padding: $space $space;
+        color: $white;
+        @include breakpoint(medium) {
+           padding-left: $space*2; 
+           padding-right: $space*2;
+        }
+        &:nth-child(1) {
+            background: darken($colorPrimary, 2%);
+        }
+        &:nth-child(2) {
+            background: lighten($colorPrimary, 2%);
+        }
+    }
+    .icon {
+        font-size: 1.5rem;
+        color: $white;
+    }
+    h3 {
+        color: $white;
+    }
+    ul {
+        @extend %no-bullet;
+    }
+    table {
+        @extend %align-left;
+        width: 100%;
+        td:last-child {
+            @extend %align-right;
+        }
+    }
+}
