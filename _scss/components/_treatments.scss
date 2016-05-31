@@ -1,0 +1,32 @@
+/* TREATMENTS
+-------------------------------------------------*/
+.treatments {
+    @extend %space;
+    background: $colorBg;
+    .row {
+        @include breakpoint(small) {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+    [class^="col-"] {
+        @include breakpoint(small) {
+            display: flex; 
+        }
+    }
+    .icon {
+        font-size: 1.5rem;
+        color: $colorPrimary;
+    }
+}
+
+.app-description{
+  font: normal 20px/20px Helvetica, Arial, sans-serif;
+  display:block;
+  text-align: justify;
+  padding-top: 20px;
+}
+.inprogress{
+    padding-top: 20px;
+    text-align: center;
+}
