@@ -1,0 +1,32 @@
+/* TEAM
+-------------------------------------------------*/
+.team {
+    @extend %clearfix;
+    @extend %space;
+    overflow: hidden;
+    color: $white;
+    background: lighten($colorPrimary, 2%);
+    h2, h4 {
+        color: $white;
+    }
+    h4 {
+        padding: 10px 0 0;
+        margin: 0;
+    }
+    .expandable-box-top {
+        border-radius: 3%;
+        margin: 0;
+        padding: $space;
+        background: $colorPrimary;
+    }
+    .team-type{
+        font-size: 22px;
+        margin-bottom: 20px; 
+        margin-top: -30px; 
+        background-color: darken(#3dadb2, 5%); 
+        padding-bottom: 10px; 
+        text-align: center; 
+        text-decoration: none;
+        position: relative;
+    }
+}

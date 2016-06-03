@@ -1,0 +1,29 @@
+<!-- Start Footer -->
+<!-- Start 3 columns -->
+<footer class="main-footer">
+    <div class="three-shade-col">
+        <div class="col-sm-6">
+            <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+            <h3>Contact Us</h3>
+            <ul>
+                {% if site.contact.phone %}<li><strong>Phone:</strong> {{ site.contact.phone }}</li>{% endif %}
+                {% if site.contact.emergency %}<li><strong>Emergency:</strong> {{ site.contact.emergency }}</li>{% endif %}
+                {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
+            </ul>
+        </div>
+        <div class="col-sm-6">
+            <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+            <h3>Location</h3>
+                <p>
+                    {{ site.contact.address }}
+                </p>
+        </div>
+    </div>
+<!-- End 3 columns -->
+<!-- End Footer -->
+<!-- Start Footer -->
+    <div class="container-fluid">
+        <small>{% if site.copyright %} {{ site.copyright }} {% endif %}</small>
+    </div>
+</footer>
+<!-- End Footer -->
