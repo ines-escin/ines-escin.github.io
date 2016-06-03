@@ -1,5 +1,5 @@
 @import "utils/config";
-
+@import "bootstrap";
 @import "utils/mixins";
 @import "utils/extends";
 
@@ -10,10 +10,12 @@
 @import "layout/nav";
 @import "layout/footer";
 
+@import "components/header"
 @import "components/hero";
 @import "components/form";
 @import "components/three-shade-columns";
 @import "components/section-title";
+@import "components/presentations";
 @import "components/treatments";
 @import "components/about";
 @import "components/testimonials";

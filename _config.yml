@@ -3,7 +3,7 @@ title: ES-CIn – Research Group
 description: "ES-CIn – Research Group"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: /img/biglogo.gif
+logo_url: /svg/logo.png
 
 # Hero
 hero: 
@@ -16,7 +16,7 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: +55 81 2126.8430 <br>Ramal 4473
+    phone: +55 81 2126.8430<br>Ramal 4473
     #emergency:
     email:
     address: Av. Jorn. Aníbal Fernandes, s/n - Cidade Universitária <br> Recife-PE - Brazil

@@ -2,114 +2,192 @@
 layout: default
 ---
 <!-- Start Hero -->
-<div class="hero container-fluid" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat center; background-size: cover; height: 300px;">
-    <div class="hero-content">
-    	<div class="container-fluid">
-    	    <div class="hero-content-inner">
-    	        <h1>{{ site.hero.hero_title }}</h1>
-    	        <p>{{ site.hero.hero_description }}</p>
-    	    </div>
-    	</div>
-    </div>
+<div class="hero container-fluid" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat center; background-size: cover;">
+	<div class="hero-content">
+		<div class="container-fluid">
+			<div class="hero-content-inner">
+				<h1>{{ site.hero.hero_title }}</h1>
+				<p>{{ site.hero.hero_description }}</p>
+			</div>
+		</div>
+	</div>
 </div>
 <!-- End Hero -->
 
 <!-- Start About -->
 <div id="about" class="about">
-    <div class="container-fluid">
-        <h2 class="section-title">About Us</h2>
-        <div class="row">
-            <div class="col-md-6">
-                <h3>Welcome to INES</h3>
-                <p>Site do projeto Engenharia de Software para Cidades Inteligentes (ESCIn), PRONEX-FACEPE-APQ 0388-1.03/14, do Instituto Nacional de Ciência e Tecnologia para Engenharia de Software (<a href="http://www.ines.org.br/">INES</a>).</p>
-                <h4>Repository</h4>
-                <div class="col-md-2 col-sm-offset-1" style="padding-bottom: 20px;">
-                    <a href="https://github.com/ines-escin/"><img src="img/about/repo.svg" style="width: 40px; height: 40px"></a>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <h4>Partners</h4>
-                <div class="row">
-                    <div class="col-md-4" style="display: inline-block;"><a href="http://www.cin.ufpe.br"><img src="img/about/ufpe.png" alt="..."><a/></div>
-                    <div class="col-md-4" style="display: inline-block;"><a href="http://www.ufrpe.br"><img src="img/about/ufrpe.png" alt="..."></a> </div>
-                    <div class="col-md-4" style="display: inline-block;"><a href="http://www.cesar.org.br"><img src="img/about/cesar.png" alt="..."></a></div>
-                </div>
-                <div class="row">
-                    <div class="col-md-3" style="display: inline-block;"><a href="http://www.facape.br/inicio.aspx"><img src="img/about/facape.png" alt="..."></a></div>
-                    <div class="col-md-5" style="display: inline-block;"><a href="http://www.pe.senai.br/"><img src="img/about/senai.png" alt="..."></a></div>
-                    <div class="col-md-4" style="display: inline-block;"><a href="http://ikewai.com/"><img src="img/about/ikewai.png" alt="..."></a></div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="container-fluid">
+		<h2 class="section-title">About Us</h2>
+		<div class="row">
+			<div class="col-md-6">
+				<h3>Welcome to INES</h3>
+				<p>Site do projeto Engenharia de Software para Cidades Inteligentes (ESCIn), PRONEX-FACEPE-APQ 0388-1.03/14, do Instituto Nacional de Ciência e Tecnologia para Engenharia de Software (<a href="http://www.ines.org.br/">INES</a>).</p>
+				<h4>Repository</h4>
+				<div class="col-md-2 col-sm-offset-1" style="padding-bottom: 20px;">
+					<a href="https://github.com/ines-escin/"><img src="img/about/repo.svg" style="width: 40px; height: 40px"></a>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<h4>Partners</h4>
+				<div class="row">
+					<div class="col-md-4" style="display: inline-block;"><a href="http://www.cin.ufpe.br"><img src="img/about/ufpe.png" alt="..."><a/></div>
+					<div class="col-md-4" style="display: inline-block;"><a href="http://www.ufrpe.br"><img src="img/about/ufrpe.png" alt="..."></a> </div>
+					<div class="col-md-4" style="display: inline-block;"><a href="http://www.cesar.org.br"><img src="img/about/cesar.png" alt="..."></a></div>
+				</div>
+				<div class="row">
+					<div class="col-md-3" style="display: inline-block;"><a href="http://www.facape.br/inicio.aspx"><img src="img/about/facape.png" alt="..."></a></div>
+					<div class="col-md-5" style="display: inline-block;"><a href="http://www.pe.senai.br/"><img src="img/about/senai.png" alt="..."></a></div>
+					<div class="col-md-4" style="display: inline-block;"><a href="http://ikewai.com/"><img src="img/about/ikewai.png" alt="..."></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 <!-- End About -->
 
 <!-- Start Treatments//Applications -->
 <div id="treatments" class="treatments">
-    <div class="container-fluid">
-        <h2 class="section-title">Applications</h2>
+	<div class="container-fluid">
+		<h2 class="section-title">Applications</h2>
 
-        <div class="row">
-            {% for treatment in site.data.treatments %}
-                <div class="col-md-6">
-                <a href="{{ site.baseurl }}/apps/{{ treatment.link }}">
-                    <div class="icon-box" style="border-radius: 2%;">
-                        <img class="icon" src="/svg/{{ treatment.icon }}"></img>
-                        <h4>{{ treatment.title }}</h4>
-                </a>
-                        <p>{{ treatment.description }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-        </div>
-    </div>
+		<div class="row">
+			{% for treatment in site.data.treatments %}
+				<div class="col-md-6">
+				<a href="{{ site.baseurl }}/apps/{{ treatment.link }}">
+					<div class="icon-box" style="border-radius: 2%;">
+						<img class="icon" src="/svg/{{ treatment.icon }}"></img>
+						<h4>{{ treatment.title }}</h4>
+				</a>
+						<p>{{ treatment.description }}</p>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
 </div>
 <!-- End Treatments -->
+	
+<!-- Start Presentations -->
+<div id="presentations" class="presentations">
+	<h2 class="section-title">
+		<a href="{{ site.baseurl }}/presentations/" style="text-decoration: none; color: black;">Presentations</a>
+	</h2>
+	<div class="container-fluid" style="margin-bottom: 30px; margin-top: -15px">
+		<div class="col-md-12 meeting">
+			<h4>Reunião de acompanhamento (7/2015)</h4>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="container-fluid box-top">
+				<a href="{{ site.url }}/presentations/files/PresentationFiware.pdf">Plataforma Fiware e aplicação CrowdBike</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/KNoT.pdf">KNoT do CESAR</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container-fluid" style="margin-bottom: 30px;">
+		<div class="col-md-12 meeting">
+			<h4>Reunião de acompanhamento (11/2015)</h4>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/OndaVerde.pdf">Aplicação Onda Verde</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/BikeCidadao.pdf">Bike Cidadao(CrowdBike): Status</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/ConceitoDosCIn.pdf">Coleta inteligente: conceito, colaborações e projeto inicial</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf">Pesquisa em testes baseados em geolocalização</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf">Desert-Map: A software plataform</a>
+			</div>
+		</div>
+
+		<div class="col-md-6 expandable-box">
+			<div class="box-top">
+			<a href="{{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf">HealthDrones</a>
+			</div>
+		</div>
+		<!--<ul>
+			<li><a href="{{ site.url }}/presentations/files/PresentationFiware.pdf">Plataforma Fiware e aplicação CrowdBike</a></li>
+			<li><a href="{{ site.url }}/presentations/files/OndaVerde.pdf">Aplicação Onda Verde</a></li>
+			<li><a href="{{ site.url }}/presentations/files/KNoT.pdf">KNoT do CESAR</a></li>
+			<li><a href="{{ site.url }}/presentations/files/BikeCidadao.pdf">Bike Cidadao(CrowdBike): Status</a></li>
+			<li><a href="{{ site.url }}/presentations/files/ConceitoDosCIn.pdf">Coleta inteligente: conceito, colaborações e projeto inicial</a></li>
+			<li><a href="{{ site.url }}/presentations/files/TestesEmGeolocalizacao.pdf">Pesquisa em testes baseados em geolocalização</a></li>
+			<li><a href="{{ site.url }}/presentations/files/Desert-mapByINESandISI-TICsv2.pdf">Desert-Map: A software plataform</a></li>
+			<li><a href="{{ site.url }}/presentations/files/HealthDronesByINESandISITICs.pdf">HealthDrones</a></li>
+		</ul>-->
+	</div>
+	<h3 style=" text-align: center;"><a href="{{ site.baseurl }}/presentations/"><strong>Todas as apresentações</strong></a>.</h3>
+</div>
+<!-- End Gallery -->
 
 
 <!-- Start Our team -->
 <div id="team" class="team">
-    <h2 class="section-title">Our Team</h2>
-    <div class="container-fluid" style="margin-bottom: 45px; margin-top: -15px;">
-        <h4 class="team-type">Faculty Members</h4>
-        {% for member in site.data.faculty_members %}
-        <div class="col-md-3 expandable-box">
-            <div class="expandable-box-top">
-                <h4>{% if member.lattes %}
-                    <a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
-                    {% endif %}
-                </h4>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-    <div class="container-fluid" style="margin-bottom: 45px">
-        <h4 class="team-type">PhD Students</h4>
-        {% for member in site.data.phd_students_members %}
-        <div class="col-md-3 expandable-box">
-            <div class="expandable-box-top">
-                <h4>{% if member.lattes %}
-                    <a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
-                    {% endif %}
-                </h4>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-    <div class="container-fluid">
-        <h4 class="team-type">Undergraduate</h4>
-        {% for member in site.data.undergraduate_students_members %}
-        <div class="col-md-3 expandable-box">
-            <div class="expandable-box-top">
-                <h4>{% if member.lattes %}
-                    <a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
-                    {% endif %}
-                </h4>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+	<h2 class="section-title">Our Team</h2>
+	<div class="container-fluid" style="margin-bottom: 45px; margin-top: -15px;">
+		<h4 class="team-type">Faculty Members</h4>
+		{% for member in site.data.faculty_members %}
+		<div class="col-md-3 expandable-box">
+			<div class="expandable-box-top">
+				<h4>{% if member.lattes %}
+					<a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
+					{% endif %}
+				</h4>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="container-fluid" style="margin-bottom: 45px">
+		<h4 class="team-type">PhD Students</h4>
+		{% for member in site.data.phd_students_members %}
+		<div class="col-md-3 expandable-box">
+			<div class="expandable-box-top">
+				<h4>{% if member.lattes %}
+					<a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
+					{% endif %}
+				</h4>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="container-fluid">
+		<h4 class="team-type">Undergraduate</h4>
+		{% for member in site.data.undergraduate_students_members %}
+		<div class="col-md-3 expandable-box">
+			<div class="expandable-box-top">
+				<h4>{% if member.lattes %}
+					<a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
+					{% endif %}
+				</h4>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
 </div>
 <!-- End Our team -->
 

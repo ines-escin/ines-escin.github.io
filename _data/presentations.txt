@@ -1,0 +1,38 @@
+-presentation-title: Reunião inicial (3/2015)
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+    -workshop: Potenciais aplicações a serem usadas como estudo de caso
+    link: fil.pdf
+    description: #
+
+-presentation-title: Reunião inicial (3/2015)
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+-presentation-title: Reunião inicial (3/2015)
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
+
+  -workshop: Visão geral do projeto
+    link: fil.pdf
+    description: #
