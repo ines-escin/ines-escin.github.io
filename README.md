@@ -1,1 +1,1 @@
-# This is INES website :)
+Site do projeto INES 2.0
