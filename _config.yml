@@ -11,9 +11,6 @@ hero:
     hero_title: INES 2.0
     hero_description: Research Group for Smart Cities
 
-# Contact form
-api_token: # Enter API token here
-
 # Contact info
 contact:
     phone: +55 81 2126.8430<br>Ramal 4473

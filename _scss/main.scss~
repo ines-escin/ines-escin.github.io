@@ -10,7 +10,7 @@
 @import "layout/nav";
 @import "layout/footer";
 
-@import "components/header"
+@import "components/header";
 @import "components/hero";
 @import "components/form";
 @import "components/three-shade-columns";
@@ -18,15 +18,10 @@
 @import "components/presentations";
 @import "components/treatments";
 @import "components/about";
-@import "components/testimonials";
-@import "components/gallery";
 @import "components/svg-icons";
 @import "components/icons-style";
 @import "components/expandable-box";
-@import "components/tooltip";
 @import "components/team";
 @import "components/social";
 @import "components/ie";
 
-@import "vendor/owl-carousel";
-@import "vendor/magnific-popup";
