@@ -48,7 +48,6 @@ layout: default
 <div id="treatments" class="treatments">
 	<div class="container-fluid">
 		<h2 class="section-title">Applications</h2>
-
 		<div class="row">
 			{% for treatment in site.data.treatments %}
 				<div class="col-md-6">
@@ -216,7 +215,7 @@ layout: default
 			<div class="expandable-box-top">
 				<h4>{% if member.lattes %}
 					<a href="{{ member.lattes }}" data-toggle="tooltip" data-placement="top" style = "color: white;">{{ member.name }} <br> {{ member.location }}</a>{% else %} {{ member.name }} <br> {{ member.location }}
-					{% endif %}
+					{% endif %} 
 				</h4>
 			</div>
 		</div>
