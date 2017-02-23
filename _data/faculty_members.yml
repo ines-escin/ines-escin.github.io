@@ -35,12 +35,12 @@
   lattes: http://lattes.cnpq.br/7716805104151473
 
 - name: César Cavalcanti França
-  location: (CIn/UFPE)
+  location: (DEINFO/UFRPE)
   github: #
   lattes: http://lattes.cnpq.br/2939395207680085
 
 - name: Cicero Garrozi
-  location: (CIn/UFPE)
+  location: (DEINFO/UFRPE)
   github: #
   lattes: http://lattes.cnpq.br/0488054917286587
 
@@ -60,7 +60,7 @@
   lattes: http://lattes.cnpq.br/7310046838140771
 
 - name: Giordano Cabral
-  location: (DEINFO/UFRPE) 
+  location: (CIn/UFPE) 
   github: #
   lattes: http://lattes.cnpq.br/6045470959652684
 
@@ -84,11 +84,12 @@
   github: #
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=W5421442 
 
-- name: Leopoldo Teixeira (CIn/UFPE)
-#  github: leopoldomt
+- name: Leopoldo Teixeira
+  location: (CIn/UFPE)
+  github: leopoldomt
 #  twitter: leopoldomt
 #  linkedin: leopoldomt
-  lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4179275T3
+  lattes: http://lattes.cnpq.br/2117651910340729
 
 - name: Márcio Cornélio
   location: (CIn/UFPE)
