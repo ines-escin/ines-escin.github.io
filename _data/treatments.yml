@@ -7,3 +7,7 @@
   title: Nucleus
   description: O projeto Nucleus visa facilitar a coleta de resíduos culinários com reservatórios inteligentes conectados a internet e equipados com sensores. (Em progresso)
   link: nucleus
+
+- icon: sports-car.svg
+  title: Smartparking
+  description: O Smartparking visa agilizar a procura por vagas dentro de um estacionamento com sistema de detecção de vagas. (Em progresso)
