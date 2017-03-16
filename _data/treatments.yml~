@@ -5,3 +5,7 @@
 - icon: diamond.svg
   title: Nucleus
   description: O projeto Nucleus visa facilitar a coleta de resíduos culinários com reservatórios inteligentes conectados a internet e equipado com sensores.
+
+- icon: sports-car.svg
+  title: Smartparking
+  description: O Smartparking visa agilizar a procura por vagas dentro de um estacionamento com sistema de detecção de vagas. (Em progresso)
