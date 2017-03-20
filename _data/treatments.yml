@@ -12,3 +12,13 @@
   title: Smartparking
   description: O Smartparking visa agilizar a procura por vagas dentro de um estacionamento com sistema de detecção de vagas. (Em progresso)
   link: smartparking
+
+- icon: star.svg
+  title: Desert Map
+  description: #
+  link: desert-map
+
+- icon: star.svg
+  title: Healthdrones
+  description: #
+  link: healthdrones
