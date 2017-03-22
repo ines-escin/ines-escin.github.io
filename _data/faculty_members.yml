@@ -4,6 +4,11 @@
   github: #
   lattes: http://lattes.cnpq.br/5194381227316437
 
+- name: Adriano Gomes
+  location: (ISI-TIC)
+  github: #
+  lattes: http://lattes.cnpq.br/2279732550446831
+
 - name: Alexandre Mota
   location: (CIn/UFPE)
   github: #
@@ -44,15 +49,35 @@
   github: #
   lattes: http://lattes.cnpq.br/0488054917286587
 
+- name: Dinani Gomes Amorim
+  location: (FACEPE)
+  github: #
+  lattes: http://lattes.cnpq.br/8385032726747642
+
 - name: Eduardo Oliveira
   location: (C.E.S.A.R)
   github: #
   lattes: http://lattes.cnpq.br/3887722014128939
 
+- name: Ernani Azevêdo
+  location: (ISI-TIC)
+  github: #
+  lattes: http://lattes.cnpq.br/4500173055611255
+
 - name: Fabio Queda Silva
   location: (CIn/UFPE)
   github: #
   lattes: http://lattes.cnpq.br/6381755382123529
+
+- name: Felipe Furtado
+  location: (C.E.S.A.R)
+  github: #
+  lattes: http://lattes.cnpq.br/6812158444067536
+
+- name: Felipe Silva Ferraz
+  location: (C.E.S.A.R)
+  github: #
+  lattes: http://lattes.cnpq.br/3795296650514352
 
 - name: Fernando Castor
   location: (CIn/UFPE)
@@ -69,6 +94,11 @@
   github: #
   lattes: http://lattes.cnpq.br/2340616806258461
 
+- name: Ioram Schechtman Sette
+  location: (CIn/UFPE)
+  github: #
+  lattes: http://lattes.cnpq.br/4304915270065653
+
 - name: Jones Albuquerque
   location: (DEINFO/UFRPE)
   github: #
@@ -84,12 +114,22 @@
   github: #
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=W5421442 
 
+- name: Leandro Nascimento
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/9163931285515006
+
 - name: Leopoldo Teixeira
   location: (CIn/UFPE)
   github: leopoldomt
 #  twitter: leopoldomt
 #  linkedin: leopoldomt
   lattes: http://lattes.cnpq.br/2117651910340729
+
+- name: Maria Batista
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/8167265341219263
 
 - name: Márcio Cornélio
   location: (CIn/UFPE)
@@ -107,30 +147,60 @@
 #  twitter: pauloborba
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4782988A6
 
+- name: Rafael Melo Macieira
+  location: (ISI-TIC)
+  github: #
+  lattes: http://lattes.cnpq.br/0687987855270877
+
 - name: Ricardo Amorim 
   location: (FACAPE)
   github: #
-  lattes: #
+  lattes: http://lattes.cnpq.br/9691074016850705
 
 - name: Ricardo Massa
   location: (CIn/UFPE)
   github: #
   lattes: http://lattes.cnpq.br/0033981436042117
 
+- name: Rodrigo Elia Assad
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/3791808485485116
+
 - name: Sérgio Soares
   location: (CIn/UFPE)
   github: #
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4763771U0
+
+- name: Silvana Bocanegra
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/4596111202208863
 
 - name: Silvio Lemos Meira
   location: (IKEWAI)
   github: #
   lattes: http://lattes.cnpq.br/4973731190814126
 
+- name: Teresa Maciel
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/6649633653228665
+
+- name: Thomas Rabelo
+  location: (FACAPE)
+  github: #
+  lattes: http://lattes.cnpq.br/2566025625163225
+
 - name: Tiago Barros
   location: (C.E.S.A.R)
   github: #
   lattes: #
+
+- name: Tiago Ferreira
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/6747136646016870
 
 - name: Vinicius Garcia
   location: (CIn/UFPE)
@@ -146,3 +216,8 @@
   location: (C.E.S.A.R)
   github: #
   lattes: http://lattes.cnpq.br/7749897538437603
+
+- name: Wilson Junior
+  location: (UFRPE)
+  github: #
+  lattes: http://lattes.cnpq.br/1812805997541734
